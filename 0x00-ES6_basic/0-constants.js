@@ -1,7 +1,3 @@
-/*
- * a given functions to be modified
- * */
-
 export function taskFirst() {
   const task = 'I prefer const when I can.';
   return task;
